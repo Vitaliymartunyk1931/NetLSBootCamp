@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\OnlineShop",
+    "\\OnlineShop\\Lib1",
+    "\\OnlineShop\\Lib2",
+    "\\OnlineShop\\OnlineShop"
   ],
-  "SelectedNode": "\\C:\\Users\\Asus\\Source\\Repos\\NetLSBootCamp",
+  "SelectedNode": "\\OnlineShop\\Lib2\\OrderBase.cs",
   "PreviewInSolutionExplorer": false
 }
