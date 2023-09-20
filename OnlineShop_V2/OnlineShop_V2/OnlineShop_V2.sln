@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop_V2", "OnlineShop_V2.csproj", "{262DAE2D-23EB-459E-87DE-C79B0036F201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib1", "..\Lib1\Lib1.csproj", "{CDACCFB9-0F93-4329-BE63-50737D7A677A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib2", "..\Lib2\Lib2.csproj", "{09C867BC-2CAA-4A47-9D15-37479DA14406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{262DAE2D-23EB-459E-87DE-C79B0036F201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{262DAE2D-23EB-459E-87DE-C79B0036F201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{262DAE2D-23EB-459E-87DE-C79B0036F201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{262DAE2D-23EB-459E-87DE-C79B0036F201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDACCFB9-0F93-4329-BE63-50737D7A677A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDACCFB9-0F93-4329-BE63-50737D7A677A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDACCFB9-0F93-4329-BE63-50737D7A677A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDACCFB9-0F93-4329-BE63-50737D7A677A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09C867BC-2CAA-4A47-9D15-37479DA14406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09C867BC-2CAA-4A47-9D15-37479DA14406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09C867BC-2CAA-4A47-9D15-37479DA14406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09C867BC-2CAA-4A47-9D15-37479DA14406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6483CAD3-F8F7-498E-B4E5-00029FA777BB}
+	EndGlobalSection
+EndGlobal
