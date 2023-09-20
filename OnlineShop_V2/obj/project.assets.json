@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Lib1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Lib1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lib1.dll": {}
+        }
+      },
+      "Lib2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Lib2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lib2.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Lib1/1.0.0": {
+      "type": "project",
+      "path": "../Lib1/Lib1.csproj",
+      "msbuildProject": "../Lib1/Lib1.csproj"
+    },
+    "Lib2/1.0.0": {
+      "type": "project",
+      "path": "../Lib2/Lib2.csproj",
+      "msbuildProject": "../Lib2/Lib2.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Lib1 >= 1.0.0",
+      "Lib2 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Asus\\.nuget\\packages\\": {}
@@ -33,7 +68,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Asus\\source\\repos\\NetLSBootCamp\\Lib1\\Lib1.csproj": {
+              "projectPath": "C:\\Users\\Asus\\source\\repos\\NetLSBootCamp\\Lib1\\Lib1.csproj"
+            },
+            "C:\\Users\\Asus\\source\\repos\\NetLSBootCamp\\Lib2\\Lib2.csproj": {
+              "projectPath": "C:\\Users\\Asus\\source\\repos\\NetLSBootCamp\\Lib2\\Lib2.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
