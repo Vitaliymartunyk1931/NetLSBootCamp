@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\bin\Debug\net6.0\CustomerWork_V2.exe
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\bin\Debug\net6.0\CustomerWork_V2.deps.json
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\bin\Debug\net6.0\CustomerWork_V2.runtimeconfig.json
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\bin\Debug\net6.0\CustomerWork_V2.dll
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\bin\Debug\net6.0\CustomerWork_V2.pdb
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\obj\Debug\net6.0\CustomerWork_V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\obj\Debug\net6.0\CustomerWork_V2.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\obj\Debug\net6.0\CustomerWork_V2.AssemblyInfo.cs
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\obj\Debug\net6.0\CustomerWork_V2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\obj\Debug\net6.0\CustomerWork_V2.dll
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\obj\Debug\net6.0\refint\CustomerWork_V2.dll
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\obj\Debug\net6.0\CustomerWork_V2.pdb
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\obj\Debug\net6.0\CustomerWork_V2.genruntimeconfig.cache
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork_V2\obj\Debug\net6.0\ref\CustomerWork_V2.dll

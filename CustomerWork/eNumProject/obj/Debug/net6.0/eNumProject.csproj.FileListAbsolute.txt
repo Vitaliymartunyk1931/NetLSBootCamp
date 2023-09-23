@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\bin\Debug\net6.0\eNumProject.exe
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\bin\Debug\net6.0\eNumProject.deps.json
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\bin\Debug\net6.0\eNumProject.runtimeconfig.json
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\bin\Debug\net6.0\eNumProject.dll
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\bin\Debug\net6.0\eNumProject.pdb
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\obj\Debug\net6.0\eNumProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\obj\Debug\net6.0\eNumProject.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\obj\Debug\net6.0\eNumProject.AssemblyInfo.cs
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\obj\Debug\net6.0\eNumProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\obj\Debug\net6.0\eNumProject.dll
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\obj\Debug\net6.0\refint\eNumProject.dll
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\obj\Debug\net6.0\eNumProject.pdb
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\obj\Debug\net6.0\eNumProject.genruntimeconfig.cache
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\eNumProject\obj\Debug\net6.0\ref\eNumProject.dll

@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\obj\Debug\net6.0\CustomerWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\obj\Debug\net6.0\CustomerWork.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\obj\Debug\net6.0\CustomerWork.AssemblyInfo.cs
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\obj\Debug\net6.0\CustomerWork.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\bin\Debug\net6.0\CustomerWork.exe
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\bin\Debug\net6.0\CustomerWork.deps.json
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\bin\Debug\net6.0\CustomerWork.runtimeconfig.json
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\bin\Debug\net6.0\CustomerWork.dll
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\bin\Debug\net6.0\CustomerWork.pdb
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\obj\Debug\net6.0\CustomerWork.dll
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\obj\Debug\net6.0\refint\CustomerWork.dll
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\obj\Debug\net6.0\CustomerWork.pdb
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\obj\Debug\net6.0\CustomerWork.genruntimeconfig.cache
+C:\Users\Asus\source\repos\NetLSBootCamp\CustomerWork\CustomerWork\obj\Debug\net6.0\ref\CustomerWork.dll
