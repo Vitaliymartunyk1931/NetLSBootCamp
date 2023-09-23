@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\NetLSBootCamp\OnlineShop_V2\Lib1\bin\Debug\net6.0\Lib1.deps.json
+C:\Users\Asus\source\repos\NetLSBootCamp\OnlineShop_V2\Lib1\bin\Debug\net6.0\Lib1.dll
+C:\Users\Asus\source\repos\NetLSBootCamp\OnlineShop_V2\Lib1\bin\Debug\net6.0\Lib1.pdb
+C:\Users\Asus\source\repos\NetLSBootCamp\OnlineShop_V2\Lib1\obj\Debug\net6.0\Lib1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\NetLSBootCamp\OnlineShop_V2\Lib1\obj\Debug\net6.0\Lib1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\NetLSBootCamp\OnlineShop_V2\Lib1\obj\Debug\net6.0\Lib1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\NetLSBootCamp\OnlineShop_V2\Lib1\obj\Debug\net6.0\Lib1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\NetLSBootCamp\OnlineShop_V2\Lib1\obj\Debug\net6.0\Lib1.dll
+C:\Users\Asus\source\repos\NetLSBootCamp\OnlineShop_V2\Lib1\obj\Debug\net6.0\refint\Lib1.dll
+C:\Users\Asus\source\repos\NetLSBootCamp\OnlineShop_V2\Lib1\obj\Debug\net6.0\Lib1.pdb
+C:\Users\Asus\source\repos\NetLSBootCamp\OnlineShop_V2\Lib1\obj\Debug\net6.0\ref\Lib1.dll
